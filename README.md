@@ -9,16 +9,16 @@ O objetivo deste projeto é praticar a inserção e organização de **imagens e
 - **Editor:** Visual Studio Code (VS Code)
 - **Linguagem:** HTML5
 
-## 📂 Formato da Atividade
+## 📂 Formato do Projeto
 
 O projeto foi desenvolvido com os seguintes arquivos:
 
 - `index.html`
 - Uma pasta `img/` para armazenar os arquivos de imagem.
 
-## 📝 O que a Questão Está Pedindo
+## 📝 O que há no Projeto
 
-A atividade solicita a criação de uma página HTML que contenha:
+O projeto solicita a criação de uma página HTML que contenha:
 
 - Um **cabeçalho (`<header>`)** com o título do portfólio;
 - Uma **seção (`<section>`)** para introduzir o conteúdo da galeria;
