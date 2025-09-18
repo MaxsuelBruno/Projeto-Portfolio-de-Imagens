@@ -1,4 +1,4 @@
-# 📘 Projeto 2 - Desenvolvimento Web 1 (HTML)
+# 📘 Projeto de Portfólio de Imagens - Desenvolvimento Web 1 (HTML)
 
 ## 🎯 Objetivo do Conteúdo
 
